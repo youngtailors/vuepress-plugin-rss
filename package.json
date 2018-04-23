@@ -1,0 +1,12 @@
+{
+  "name": "vuepress-plugin-rss",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "SangND",
+  "repository": "https://github.com/dacsang97/vuepress-plugin-rss.git",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^5.0.0",
+    "rss": "^1.2.2"
+  }
+}
