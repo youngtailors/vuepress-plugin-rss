@@ -6,6 +6,7 @@
   "repository": "https://github.com/dacsang97/vuepress-plugin-rss.git",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.4.1",
     "fs-extra": "^5.0.0",
     "rss": "^1.2.2"
   }
