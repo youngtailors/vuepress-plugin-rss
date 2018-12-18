@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-rss",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "index.js",
   "author": "SangND",
   "repository": "https://github.com/dacsang97/vuepress-plugin-rss.git",
